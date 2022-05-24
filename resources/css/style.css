@@ -4,15 +4,11 @@ body {
   text-align: center;
 }
 
+/*Headings*/
 h1 {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 50px;
   font-weight: normal;
-}
-
-a {
-  color: aquamarine;
-  font-size: 16px;
 }
 
 h2 {
@@ -21,12 +17,19 @@ h2 {
   font-weight: 300;
 }
 
+/*Links & Text*/
+a {
+  color: aquamarine;
+  font-size: 16px;
+}
+
 .travel-text {
   color: gray;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 21px;
 }
 
+/*Footer*/
 .trademark {
   color: gray;
   text-align: right;
